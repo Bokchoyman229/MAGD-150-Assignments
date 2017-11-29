@@ -1,4 +1,5 @@
 MAGD-150-Assignments
+
 Assignment 1 https://github.com/Bokchoyman229/MAGD-150-Assignments/blob/gh-pages/assignment1.pde 
 Assignment 2 https://github.com/Bokchoyman229/MAGD-150-Assignments/blob/gh-pages/assignment2.pde 
 Assignment 3 https://github.com/Bokchoyman229/MAGD-150-Assignments/blob/gh-pages/assignment3.pde 
